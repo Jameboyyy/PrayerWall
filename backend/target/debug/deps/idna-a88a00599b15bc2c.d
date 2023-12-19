@@ -1,0 +1,10 @@
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libidna-a88a00599b15bc2c.rmeta: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libidna-a88a00599b15bc2c.rlib: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/idna-a88a00599b15bc2c.d: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs:
