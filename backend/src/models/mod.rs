@@ -1,1 +1,1 @@
-pub mod prayer_request; 
+pub mod prayer_wall; 
