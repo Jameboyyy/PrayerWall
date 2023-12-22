@@ -1,0 +1,9 @@
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libzstd_sys-1ebf479ca10260a8.rmeta: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zstd.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zdict.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libzstd_sys-1ebf479ca10260a8.rlib: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zstd.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zdict.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/zstd_sys-1ebf479ca10260a8.d: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zstd.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zdict.rs
+
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/lib.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zstd.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.9+zstd.1.5.5/src/bindings_zdict.rs:

@@ -1,0 +1,10 @@
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libcc-699c527146e280fd.rmeta: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libcc-699c527146e280fd.rlib: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/cc-699c527146e280fd.d: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs:

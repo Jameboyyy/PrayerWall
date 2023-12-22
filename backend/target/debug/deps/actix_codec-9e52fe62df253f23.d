@@ -1,0 +1,10 @@
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libactix_codec-9e52fe62df253f23.rmeta: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/libactix_codec-9e52fe62df253f23.rlib: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/jamesdanielcadavona/Documents/Github/PrayerWall/backend/target/debug/deps/actix_codec-9e52fe62df253f23.d: /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs /Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs
+
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lib.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/bcodec.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/framed.rs:
+/Users/jamesdanielcadavona/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.1/src/lines.rs:
